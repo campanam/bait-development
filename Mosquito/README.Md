@@ -1,6 +1,6 @@
 # Mosquito  
 ## Description  
-* Bait set developed for [mosquito](Mosquito) diversity and insecticide resistance.  
+Bait set developed for [mosquito](Mosquito) diversity and insecticide resistance.  
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
 ## Citation  
