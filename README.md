@@ -12,5 +12,5 @@ The software is made available under the Smithsonian Institution [terms of use](
 * Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. In prep. Population genomics and systematics of extinct and critically endangered reedwarblers in the Mariana Islands.  
 ### Mariana Crow
-* Bait set developed for [Mariana Crow (*Corvus kubaryi*)](Marianacrow).  
+* Bait set developed for [Mariana Crow (*Corvus kubaryi*)](MarianaCrow).  
 * Citation: Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. (https://doi.org/10.3390/genes10030187).  
