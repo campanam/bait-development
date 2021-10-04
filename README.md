@@ -9,5 +9,5 @@ The software is made available under the Smithsonian Institution [terms of use](
 
 ## Bait Sets  
 ### Acrocephalus  
-* Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/Acrocephalus.Md).  
+* Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. In prep. Population genomics and systematics of extinct and critically endangered reedwarblers in the Mariana Islands.  
