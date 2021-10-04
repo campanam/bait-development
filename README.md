@@ -14,3 +14,6 @@ The software is made available under the Smithsonian Institution [terms of use](
 ### Mariana Crow
 * Bait set developed for [Mariana Crow (*Corvus kubaryi*)](MarianaCrow).  
 * Citation: Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. (https://doi.org/10.3390/genes10030187).  
+### Mosquito  
+* Bait set developed for [mosquito](Mosquito) diversity and insecticide resistance.  
+* Citation: Aardema ML, Campana MG, Wagner NE, Ferreira FC, Fonseca DM. 2021. A gene-based capture assay for surveying patterns of genetic diversity and insecticide resistance in a worldwide group of invasive mosquitoes. *bioRxiv*. (https://doi.org/10.1101/2021.08.24.457535).  
