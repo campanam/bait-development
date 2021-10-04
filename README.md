@@ -2,7 +2,7 @@
 
 ### Michael G. Campana, 2015-2021  
 
-This repository contains scripts and tools for development of various bait sets. See each project subfolder for details.  
+This repository contains scripts and tools for development of various bait sets. See each project subfolder for details. Most bait sets were developed using [BaitsTools](https://github.com/campanam/BaitsTools).  
 
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
