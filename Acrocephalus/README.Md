@@ -1,4 +1,6 @@
 # Acrocephalus  
+## Description  
+Bait set for population genomics of *Acrocephalus* reedwarblers.  
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
 ## Citation  
