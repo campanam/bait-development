@@ -6,3 +6,6 @@ The software is made available under the Smithsonian Institution [terms of use](
 ## Citation  
 Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. (https://doi.org/10.3390/genes10030187).  
 ## Scripts  
+
+## Baits  
+The final bait set is available [here](mariana_crow_baits.fa).  
