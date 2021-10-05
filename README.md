@@ -11,6 +11,9 @@ The software is made available under the Smithsonian Institution [terms of use](
 ### Acrocephalus  
 * Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. In prep. Population genomics and systematics of extinct and critically endangered reedwarblers in the Mariana Islands.  
+### Lycaon
+* Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
+* Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2021. An efficient noninvasive method for simultaneous species, individual, and sex identification of sympatric Mojave Desert canids via in-solution SNP capture. *Authorea*. (https://doi.org/10.22541/au.162818800.02355889/v1).  
 ### Mariana Crow
 * Bait set developed for [Mariana Crow (*Corvus kubaryi*)](MarianaCrow).  
 * Citation: Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. (https://doi.org/10.3390/genes10030187).  
