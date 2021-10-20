@@ -1,6 +1,7 @@
 # bait-development  
 
 ### Michael G. Campana, 2015-2021  
+### Smtihsonian Conservation Biology Institute  
 
 This repository contains *ad hoc* scripts and tools for development of various bait sets. See each project subfolder for details. Most bait sets were developed using [BaitsTools](https://github.com/campanam/BaitsTools).  
 
