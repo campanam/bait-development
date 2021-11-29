@@ -14,10 +14,10 @@ The software is made available under the Smithsonian Institution [terms of use](
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. In prep. Population genomics and systematics of extinct and critically endangered reedwarblers in the Mariana Islands.  
 ### Lycaon
 * Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
-* Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2021. An efficient noninvasive method for simultaneous species, individual, and sex identification of sympatric Mojave Desert canids via in-solution SNP capture. *Authorea*. (https://doi.org/10.22541/au.162818800.02355889/v1).  
+* Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2021. An efficient method for simultaneous species, individual, and sex identification via in-solution SNP capture of low-quality scat samples. *Molecular Ecology Resources*. DOI: [10.1111/1755-0998.13552](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13552).  
 ### Mariana Crow
 * Bait set developed for [Mariana Crow (*Corvus kubaryi*)](MarianaCrow).  
-* Citation: Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. (https://doi.org/10.3390/genes10030187).  
+* Citation: Cortes-Rodriguez N, Campana MG, Berry L, Faegre S, Derrickson SR, Ha RR, Dikow RB, Rutz C, Fleischer RC. 2019. Population genomics and structure of the critically endangered Mariana Crow (*Corvus kubaryi*). *Genes*. 10, 187. DOI: [10.3390/genes10030187](https://doi.org/10.3390/genes10030187).  
 ### Mosquito  
 * Bait set developed for [mosquito](Mosquito) diversity and insecticide resistance.  
-* Citation: Aardema ML, Campana MG, Wagner NE, Ferreira FC, Fonseca DM. 2021. A gene-based capture assay for surveying patterns of genetic diversity and insecticide resistance in a worldwide group of invasive mosquitoes. *bioRxiv*. (https://doi.org/10.1101/2021.08.24.457535).  
+* Citation: Aardema ML, Campana MG, Wagner NE, Ferreira FC, Fonseca DM. 2021. A gene-based capture assay for surveying patterns of genetic diversity and insecticide resistance in a worldwide group of invasive mosquitoes. *bioRxiv*. DOI: [10.1101/2021.08.24.457535](https://doi.org/10.1101/2021.08.24.457535).  
