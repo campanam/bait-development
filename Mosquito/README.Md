@@ -7,3 +7,5 @@ The software is made available under the Smithsonian Institution [terms of use](
 Aardema ML, Campana MG, Wagner NE, Ferreira FC, Fonseca DM. 2021. A gene-based capture assay for surveying patterns of genetic diversity and insecticide resistance in a worldwide group of invasive mosquitoes. *bioRxiv*. DOI: [10.1101/2021.08.24.457535](https://doi.org/10.1101/2021.08.24.457535).  
 ## Scripts  
 [get_alignments.rb](get_alignments.rb) selects target genes from a list and sorts the selected FASTA gene alignments into a directory.  
+## Baits  
+The final bait set is available [here](culex_baits.fa).  
