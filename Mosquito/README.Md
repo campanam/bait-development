@@ -8,4 +8,4 @@ Aardema ML, Campana MG, Wagner NE, Ferreira FC, Fonseca DM. 2021. A gene-based c
 ## Scripts  
 [get_alignments.rb](get_alignments.rb) selects target genes from a list and sorts the selected FASTA gene alignments into a directory.  
 ## Baits  
-The final bait set is available [here](culex_baits.fa).  
+The final bait set is available [here](mosquito_baits.fa).  
