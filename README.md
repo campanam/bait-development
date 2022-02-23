@@ -11,7 +11,7 @@ The software is made available under the Smithsonian Institution [terms of use](
 ## Bait Sets  
 ### Acrocephalus  
 * Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
-* Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. In prep. Population genomics and systematics of extinct and critically endangered reedwarblers in the Mariana Islands.  
+* Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. 2022. Conservation genomics and systematics of a near-extinct island radiation. *Molecular Ecology*. DOI: [10.1111/mec.16382](https://onlinelibrary.wiley.com/doi/10.1111/mec.16382).  
 ### Lycaon
 * Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
 * Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2021. An efficient method for simultaneous species, individual, and sex identification via in-solution SNP capture of low-quality scat samples. *Molecular Ecology Resources*. DOI: [10.1111/1755-0998.13552](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13552).  
