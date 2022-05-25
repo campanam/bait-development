@@ -1,9 +1,9 @@
 # bait-development  
 
 ### Michael G. Campana
-Smithsonian Conservation Biology Institute, 2015-2022  
+Smithsonian's National Zoo and Conservation Biology Institute, 2015-2022  
 
-This repository contains *ad hoc* scripts and tools for development of various bait sets. See each project subfolder for details. Most bait sets were developed using [BaitsTools](https://github.com/campanam/BaitsTools).  
+This repository contains hybridization capture bait sets developed at the Center for Conservation Genomics, Smithsonian's National Zoo and Conservation Biology Institute. It also provides *ad hoc* scripts and tools for the development of these bait sets. Please note that this code is not maintained and is solely provided for reference. See each project subfolder for details. Most bait sets were developed using [BaitsTools](https://github.com/campanam/BaitsTools).  
 
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
@@ -12,6 +12,9 @@ The software is made available under the Smithsonian Institution [terms of use](
 ### Acrocephalus  
 * Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. 2022. Conservation genomics and systematics of a near-extinct island radiation. *Molecular Ecology*. 31: 1995-2012. DOI: [10.1111/mec.16382](https://onlinelibrary.wiley.com/doi/10.1111/mec.16382).  
+### Elephant
+* Bait set developed for [Asian elephants (*Elephas maximus*)](Elephant/).  
+* Citation: Prado NA, Maldonado JE, Armstrong EE, Latimer E, Goldenberg S, Leimgruber P, Pearson VA, Brown JL, Campana MG. In prep. New genomic tools for elephant health and conservation.  
 ### Lycaon
 * Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
 * Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2022. An efficient method for simultaneous species, individual, and sex identification via in-solution SNP capture of low-quality scat samples. *Molecular Ecology Resources*. 22: 1345-1361. DOI: [10.1111/1755-0998.13552](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13552).  
