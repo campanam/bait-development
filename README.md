@@ -10,7 +10,7 @@ The software is made available under the Smithsonian Institution [terms of use](
 
 ## Bait Sets  
 ### Acrocephalus  
-* Bait set developed for [*Acrocephalus* reedwarblers](Acrocephalus/).  
+* Bait set developed for [*Acrocephalus* reed warblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. 2022. Conservation genomics and systematics of a near-extinct island radiation. *Molecular Ecology*. 31: 1995-2012. DOI: [10.1111/mec.16382](https://onlinelibrary.wiley.com/doi/10.1111/mec.16382).  
 ### Elephant
 * Bait set developed for [Asian elephants (*Elephas maximus*)](Elephant/).  
