@@ -1,7 +1,7 @@
 # bait-development  
 
 ### Michael G. Campana
-Smithsonian's National Zoo and Conservation Biology Institute, 2015-2022  
+Smithsonian's National Zoo and Conservation Biology Institute, 2015-2023  
 
 This repository contains hybridization capture bait sets developed at the Center for Conservation Genomics, Smithsonian's National Zoo and Conservation Biology Institute. It also provides *ad hoc* scripts and tools for the development of these bait sets. Please note that this code is not maintained and is solely provided for reference. See each project subfolder for details. Most bait sets were developed using [BaitsTools](https://github.com/campanam/BaitsTools).  
 
