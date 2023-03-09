@@ -12,6 +12,9 @@ The software is made available under the Smithsonian Institution [terms of use](
 ### Acrocephalus  
 * Bait set developed for [*Acrocephalus* reed warblers](Acrocephalus/).  
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. 2022. Conservation genomics and systematics of a near-extinct island radiation. *Molecular Ecology*. 31: 1995-2012. DOI: [10.1111/mec.16382](https://onlinelibrary.wiley.com/doi/10.1111/mec.16382).  
+### Bachman's Warbler
+* Bait set designed for [Bachman's warblers (*Vermivora bachmanii*)](Bawa/).  
+* Citation: Byerly PA, Kearns AM, Welch A, Ochirbat M-E, Marra PP, Wilson A, Campana MG, Fleischer RC. In preparation. Museum genomics reveal range-wide panmixia in an extinct North American passerine.  
 ### Elephant
 * Bait set developed for [Asian elephants (*Elephas maximus*)](Elephant/).  
 * Citation: Prado NA, Armstrong EE, Brown JL, Goldenberg SZ, Leimgruber P, Pearson VR, Maldonado JE, Campana MG. 2023. New genomic tools for Asian (*Elephas maximus*) and African savannah elephant (*Loxodonta africana*) health and conservation. *bioRxiv*. DOI: [10.1101/2023.02.10.528067](https://doi.org/10.1101/2023.02.10.528067).  
