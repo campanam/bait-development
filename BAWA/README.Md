@@ -1,6 +1,6 @@
 # Bachman's Warbler  
 ## Description  
-* Bait set designed for Bachman's warblers (*Vermivora bachmanii*).  
+Bait set designed for Bachman's warblers (*Vermivora bachmanii*).  
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
 ## Citation  
