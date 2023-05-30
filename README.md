@@ -17,7 +17,7 @@ The software is made available under the Smithsonian Institution [terms of use](
 * Citation: Byerly PA, Kearns AM, Welch A, Ochirbat M-E, Marra PP, Wilson A, Campana MG, Fleischer RC. In preparation. Museum genomics reveal range-wide panmixia in an extinct North American passerine.  
 ### Elephant
 * Bait set developed for [Asian elephants (*Elephas maximus*)](Elephant/).  
-* Citation: Prado NA, Armstrong EE, Brown JL, Goldenberg SZ, Leimgruber P, Pearson VR, Maldonado JE, Campana MG. 2023. New genomic tools for Asian (*Elephas maximus*) and African savannah elephant (*Loxodonta africana*) health and conservation. *bioRxiv*. DOI: [10.1101/2023.02.10.528067](https://doi.org/10.1101/2023.02.10.528067).  
+* Citation: Prado NA, Armstrong EE, Brown JL, Goldenberg SZ, Leimgruber P, Pearson VR, Maldonado JE, Campana MG. 2023. Genomic resources for Asian (*Elephas maximus*) and African savannah elephant (*Loxodonta africana*) conservation and health research. *Journal of Heredity*. DOI: [10.1093/jhered/esad034](https://doi.org/10.1093/jhered/esad034).  
 ### Lycaon
 * Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
 * Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2022. An efficient method for simultaneous species, individual, and sex identification via in-solution SNP capture of low-quality scat samples. *Molecular Ecology Resources*. 22: 1345-1361. DOI: [10.1111/1755-0998.13552](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13552).  
