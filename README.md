@@ -14,10 +14,10 @@ The software is made available under the Smithsonian Institution [terms of use](
 * Citation: Kearns AM, Campana MG, Slikas B, Berry L, Saitoh T, Cibois A, Fleischer RC. 2022. Conservation genomics and systematics of a near-extinct island radiation. *Molecular Ecology*. 31: 1995-2012. DOI: [10.1111/mec.16382](https://onlinelibrary.wiley.com/doi/10.1111/mec.16382).  
 ### Bachman's Warbler
 * Bait set designed for [Bachman's warblers (*Vermivora bachmanii*)](BAWA/).  
-* Citation: Byerly PA, Kearns AM, Welch A, Ochirbat M-E, Marra PP, Wilson A, Campana MG, Fleischer RC. In preparation. Museum genomics reveal range-wide panmixia in an extinct North American passerine.  
+* Citation: Byerly PA, Kearns AM, Welch A, Ochirbat M-E, Marra PP, Wilson A, Campana MG, Fleischer RC. 2024. Museum genomics provide insight into the extinction of a specialist North American warbler species. *Scientific Reports*. 14: 17047. DOI: [10.1038/s41598-024-67595-5](https://doi.org/10.1038/s41598-024-67595-5).  
 ### Elephant
 * Bait set developed for [Asian elephants (*Elephas maximus*)](Elephant/).  
-* Citation: Prado NA, Armstrong EE, Brown JL, Goldenberg SZ, Leimgruber P, Pearson VR, Maldonado JE, Campana MG. 2023. Genomic resources for Asian (*Elephas maximus*) and African savannah elephant (*Loxodonta africana*) conservation and health research. *Journal of Heredity*. DOI: [10.1093/jhered/esad034](https://doi.org/10.1093/jhered/esad034).  
+* Citation: Prado NA, Armstrong EE, Brown JL, Goldenberg SZ, Leimgruber P, Pearson VR, Maldonado JE, Campana MG. 2023. Genomic resources for Asian (*Elephas maximus*) and African savannah elephant (*Loxodonta africana*) conservation and health research. *Journal of Heredity*. 114: 529-538. DOI: [10.1093/jhered/esad034](https://doi.org/10.1093/jhered/esad034).  
 ### Lycaon
 * Bait set developed for [African wild dogs (*Lycaon pictus*)](Lycaon/).  
 * Citation: Parker LD, Campana MG, Quinta JD, Cypher B, Rivera I, Fleischer RC, Ralls K, Wilbert TR, Boarman R, Boarman WI, Maldonado JE. 2022. An efficient method for simultaneous species, individual, and sex identification via in-solution SNP capture of low-quality scat samples. *Molecular Ecology Resources*. 22: 1345-1361. DOI: [10.1111/1755-0998.13552](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13552).  
